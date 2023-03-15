@@ -1,5 +1,5 @@
 # projeto pizzaria / BACKEND
-PostgreSQL, NodeJS, ReactJS, TypeScript
+PostgreSQL, NodeJS, ExpressJS, TypeScript
 
 
 ## 🛠️ Abrir e rodar o projeto
